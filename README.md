@@ -1,1 +1,1 @@
-Hi, I’m Mac. I’m a software developer with a passion for coding and technology. I’m skilled in languages like Python, Go, and JavaScript, and I enjoy working on blockchain projects and cloud-based systems. In my spare time, I like to explore new tech trends, solve coding challenges, and learn about emerging fields like AI and cybersecurity. I’m always eager to collaborate on exciting projects and grow my skills. Looking forward to connecting!
+2025-02-28 04:20:04.670990447 +0800 CST m=+3387040.943817783 : 807
